@@ -20,6 +20,7 @@
 * Domain Notification
 * Dependency Injection
 * SPOF - Single point of failure
+* CQRS
 
 # References
 
