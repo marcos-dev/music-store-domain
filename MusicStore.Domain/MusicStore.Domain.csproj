@@ -102,6 +102,7 @@
     <Compile Include="Commands\CommandResult.cs" />
     <Compile Include="Commands\CreateBoletoSubscriptionCommand.cs" />
     <Compile Include="Commands\CreateCreditCardSubscription.cs" />
+    <Compile Include="Commands\CreatePayPalSubscriptionCommand.cs" />
     <Compile Include="Entities\Address.cs" />
     <Compile Include="Entities\BoletoPayment.cs" />
     <Compile Include="Entities\CreditCardPayment.cs" />
