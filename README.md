@@ -9,7 +9,7 @@
 * .NET Core 1.1.0
 * Flunt
 
-# Patterns
+# Main Patterns
 
 * DDD - Domain Drive Design
 * TDD - Teste Driven Design
