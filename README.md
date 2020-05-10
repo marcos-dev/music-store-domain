@@ -15,6 +15,7 @@
 * TDD - Teste Driven Design
 * SOLID
 * Clean Code
+* Repository Pattern
 * Fail Fast Validation
 * Domain Notification
 * Dependency Injection
